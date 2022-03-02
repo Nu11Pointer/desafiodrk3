@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "drk3", "drk3\drk3.csproj", "{BA2A9AAC-E624-4467-8ED8-AD6FB44B101F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2A9AAC-E624-4467-8ED8-AD6FB44B101F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2A9AAC-E624-4467-8ED8-AD6FB44B101F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2A9AAC-E624-4467-8ED8-AD6FB44B101F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2A9AAC-E624-4467-8ED8-AD6FB44B101F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90DF1EEB-1BB1-4D18-8BA4-EA45D5EEF312}
+	EndGlobalSection
+EndGlobal
